@@ -4,4 +4,9 @@ Me chamo Wiliam Morales. Sou interessado em programação voltada à Meteorologi
 Já usei algumas linguagens de programação comuns na área de geociências. Atualmente utilizo a linguagem Python.
 Sempre procuro compartilhar meus códigos e contribuir com o ambiente colaborativo. Meu email para contato é wiliammorales@gmail.com.
 
-
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
