@@ -1,4 +1,4 @@
-![Data_Science2](https://user-images.githubusercontent.com/80546143/227724399-f8387263-9673-47dd-8013-0f32f44092c2.jpg)
+
 
 Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata.
 Já usei algumas linguagens de programação comuns na área de geociências. Atualmente pratico Ciência de Dados usando Python e MySQL.
