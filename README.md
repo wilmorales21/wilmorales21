@@ -10,7 +10,7 @@ My name is Wiliam Morales. I'm meteorologist by academic background and self-tau
 Send me email: wiliammorales@gmail.com
 Connect with me:https://www.linkedin.com/in/wilmorales21/
 
-Me llamo Wiliam Morales. Yo soy meteorólogo por formacíón acadmica y cientista de los datos autodidacta. Yo ya usé algunas lenguajes de programación común en el campo de las geociencias. Actualmente yo pratico Ciência de los Datos usando Python y MySQL. Siempre busco compartir mis códigos y contribuir con el ambiente colaborativo. 
+Me llamo Wiliam Morales. Yo soy meteorólogo por formacíón académica y cientista de los datos autodidacta. Yo ya usé algunas lenguajes de programación común en el campo de las geociencias. Actualmente yo pratico Ciência de los Datos usando Python y MySQL. Siempre busco compartir mis códigos y contribuir con el ambiente colaborativo. 
 Envíame un email:wiliammorales@gmail.com
 Conectate conmigo:https://www.linkedin.com/in/wilmorales21/
 
