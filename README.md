@@ -1,4 +1,4 @@
-![Stratus4](https://user-images.githubusercontent.com/80546143/155893004-265286aa-67c2-4c8a-8e18-54b1cd661855.jpg)
+
 
 Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata.
 Já usei algumas linguagens de programação comuns na área de geociências. Atualmente pratico Ciência de Dados usando Python e MySQL.
