@@ -1,4 +1,5 @@
 
+
 Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata.
 Já usei algumas linguagens de programação comuns na área de geociências. Atualmente pratico Ciência de Dados usando Python e MySQL.
 Sempre procuro compartilhar meus códigos e contribuir com o ambiente colaborativo. 
