@@ -15,6 +15,7 @@ Me llamo Wiliam Morales. Yo soy meteorólogo por formacíón académica y cienti
 Envíame un email:wiliammorales@gmail.com
 Conectate conmigo:https://www.linkedin.com/in/wilmorales21/
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,3 +31,5 @@ Conectate conmigo:https://www.linkedin.com/in/wilmorales21/
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"> 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </div>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
