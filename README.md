@@ -2,16 +2,16 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata.
-Já usei algumas linguagens de programação comuns na área de geociências. Atualmente pratico Ciência de Dados usando Python e MySQL.
+Já usei algumas linguagens de programação comuns na área de Geociências. Atualmente pratico Ciência de Dados usando Python e MySQL.
 Sempre procuro compartilhar meus códigos e contribuir com o ambiente colaborativo. 
 Envie-me um email: wiliammorales@gmail.com
 Conecte-se comigo no Linkedin:https://www.linkedin.com/in/wilmorales21/
 
-My name is Wiliam Morales. I'm meteorologist by academic background and self-taught data scientist. I already used some common programming languages in the geosciences area. I currently practice Data Science using Python and MySQL. I always share my codes for contribute with collaborative environment. 
+My name is Wiliam Morales. I'm Meteorologist by academic background and self-taught Data Scientist. I already used some common programming languages in the Geosciences area. I currently practice Data Science using Python and MySQL. I always share my codes for contribute with collaborative environment. 
 Send me email: wiliammorales@gmail.com
 Connect with me:https://www.linkedin.com/in/wilmorales21/
 
-Me llamo Wiliam Morales. Yo soy meteorólogo por formacíón académica y cientista de datos autodidacta. Yo ya usé algunas lenguajes de programación común en el campo de las geociencias. Actualmente yo pratico Ciência de Datos usando Python y MySQL. Siempre busco compartir mis códigos y contribuir con el ambiente colaborativo. 
+Me llamo Wiliam Morales. Yo soy Meteorólogo por formacíón académica y Científico de Datos autodidacta. Yo ya usé algunas lenguajes de programación común en el campo de las Geociencias. Actualmente yo pratico Ciência de Datos usando Python y MySQL. Siempre busco compartir mis códigos y contribuir con el ambiente colaborativo. 
 Envíame un email:wiliammorales@gmail.com
 Conectate conmigo:https://www.linkedin.com/in/wilmorales21/
 
