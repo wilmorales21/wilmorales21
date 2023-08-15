@@ -1,9 +1,11 @@
 ![banner3_github](https://github.com/wilmorales21/Scripts/assets/80546143/31139172-994e-46e5-9ee3-264d51d08650)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata. Atualmente trabalho como freelancer. Já usei algumas linguagens de programação comuns na área de Geociências, mas hoje em dia meu foco é na Ciência de Dados usando Python e MySQL. Sempre procuro compartilhar meus códigos e contribuir com o ambiente colaborativo. Envie-me um email: wiliammorales@gmail.com ou conecte-se comigo no Linkedin:https://www.linkedin.com/in/wilmorales21/
+Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata. Atualmente trabalho como freelancer. Já usei algumas linguagens de programação comuns na área de Geociências, mas hoje em dia meu foco é na Ciência de Dados usando Python e MySQL. Sempre procuro compartilhar meus códigos e contribuir com o ambiente colaborativo. 
+Envie-me um email: wiliammorales@gmail.com ou conecte-se comigo no Linkedin:https://www.linkedin.com/in/wilmorales21/
 
-My name is Wiliam Morales. I'm Meteorologist by academic background and self-taught Data Scientist. Currenyly I work as a freelancer. I already used some common programming languages in the Geosciences area, but nowadays my focus is the Data Science using Python and MySQL. I always share my codes for contribute with collaborative environment. Send me email: wiliammorales@gmail.com or connect with me:https://www.linkedin.com/in/wilmorales21/
+My name is Wiliam Morales. I'm Meteorologist by academic background and self-taught Data Scientist. Currenyly I work as a freelancer. I already used some common programming languages in the Geosciences area, but nowadays my focus is the Data Science using Python and MySQL. I always share my codes for contribute with collaborative environment.
+Send me email:wiliammorales@gmail.com or connect with me:https://www.linkedin.com/in/wilmorales21/
 
 Me llamo Wiliam Morales. Yo soy Meteorólogo por formacíón académica y Científico de Datos autodidacta. Actualmente yo trabajo como freelancer. Yo ya usé algunas lenguajes de programación común en el campo de las Geociencias, pero hoy en día mi enfoque es en la Ciência de Datos usando Python y MySQL. Siempre busco compartir mis códigos y contribuir con el ambiente colaborativo. 
 Envíame un email:wiliammorales@gmail.com o conectate conmigo:https://www.linkedin.com/in/wilmorales21/
