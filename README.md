@@ -1,12 +1,15 @@
 ![banner3_github](https://github.com/wilmorales21/Scripts/assets/80546143/31139172-994e-46e5-9ee3-264d51d08650)
 
 -----------------------------------------------------------------------------------------------------------------------------------
+🇧🇷
 Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata. Atualmente trabalho como
 freelancer com foco na Ciência de Dados. Sempre procuro compartilhar meus códigos e contribuir com o ambiente colaborativo.
 
+🇺🇸
 My name is Wiliam Morales. I'm meteorologist by academic background and self-taught data scientist. Currenyly I work as a
 freelancer with focus in the Data Science. I always share my codes for contribute with collaborative environment.
 
+🇪🇸
 Me llamo Wiliam Morales. Yo soy meteorólogo por formacíón académica y científico de datos autodidacta. Actualmente yo trabajo como
 freelancer con enfoque en la Ciência de Datos. Siempre busco compartir mis códigos y contribuir con el ambiente colaborativo.
 
