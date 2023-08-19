@@ -4,8 +4,8 @@
 Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata. Atualmente trabalho como
 freelancer com foco na Ciência de Dados. Sempre procuro compartilhar meus códigos e contribuir com o ambiente colaborativo.
 Contatos:
-e-mail:wiliammorales@gmail.com
-Linkedin:https://www.linkedin.com/in/wilmorales21/
+wiliammorales@gmail.com
+https://www.linkedin.com/in/wilmorales21/
 
 My name is Wiliam Morales. I'm meteorologist by academic background and self-taught data scientist. Currenyly I work as a
 freelancer with focus in the Data Science. I always share my codes for contribute with collaborative environment.
