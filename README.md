@@ -3,23 +3,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 Me chamo Wiliam Morales. Sou meteorologista por formação acadêmica e cienctista de dados autodidata. Atualmente trabalho como
 freelancer com foco na Ciência de Dados. Sempre procuro compartilhar meus códigos e contribuir com o ambiente colaborativo.
-Contatos:
-
-![Email](https://img.shields.io/badge/Gmail-red) wiliammorales@gmail.com
-
-![LinkedIn](https://img.shields.io/badge/Profile-blue) https://www.linkedin.com/in/wilmorales21/
 
 My name is Wiliam Morales. I'm meteorologist by academic background and self-taught data scientist. Currenyly I work as a
 freelancer with focus in the Data Science. I always share my codes for contribute with collaborative environment.
-Contacts:
-
-![Email](https://img.shields.io/badge/Gmail-red) wiliammorales@gmail.com
-
-![LinkedIn](https://img.shields.io/badge/Profile-blue) https://www.linkedin.com/in/wilmorales21/
 
 Me llamo Wiliam Morales. Yo soy meteorólogo por formacíón académica y científico de datos autodidacta. Actualmente yo trabajo como
 freelancer con enfoque en la Ciência de Datos. Siempre busco compartir mis códigos y contribuir con el ambiente colaborativo.
-Contactos:
+
+Contatos/Contacts/Contactos:
 
 ![Email](https://img.shields.io/badge/Gmail-red) wiliammorales@gmail.com
 
