@@ -11,7 +11,7 @@ freelancer with focus in the Data Science. I always share my codes voluntarily t
 
 🇪🇸
 Me llamo Wiliam Morales. Yo soy meteorólogo por formacíón académica y científico de datos autodidacta. Actualmente yo trabajo como
-freelancer con enfoque en la Ciência de Datos. Siempre busco compartir mis códigos de manera voluntaria para contribuir con el ambiente colaborativo.
+freelancer con enfoque en la Ciência de los Datos. Siempre busco compartir mis códigos de manera voluntaria para contribuir con el ambiente colaborativo.
 
 Contatos/Contacts/Contactos:
 
