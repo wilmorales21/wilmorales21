@@ -17,7 +17,7 @@ Contatos/Contacts/Contactos:
 
 ![Email](https://img.shields.io/badge/Gmail-red) wiliammorales@gmail.com
 
-![LinkedIn](https://img.shields.io/badge/Profile-blue) https://www.linkedin.com/in/wilmorales21/
+![LinkedIn](https://img.shields.io/badge/Profile-blue) https://www.linkedin.com/in/wilmorales21/?originalSubdomain=br
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
